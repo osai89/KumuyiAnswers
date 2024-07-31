@@ -45,7 +45,7 @@ col1, col2, col3 = st.columns([1, 2, 1])
 with col1:
     st.image(os.path.join("images", "logo.png"))
 
-st.write("# Chat with your data Solution Accelerator")
+st.write("# Chat with Bible Study Outlines and Messages  in Kumuyi Answers")
 
 st.write(
     """
